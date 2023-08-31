@@ -1,0 +1,23 @@
+/* HTML Dag 2 */
+
+/* Contents */
+/*
+1. Index
+2. Portfolio */
+
+/* Root */
+*{
+    @font-face {
+        font-family: Myfont;
+        src: url('') format('truetype');
+      }
+}
+
+p {
+    font-family: Myfont, sans-serif;
+  }
+
+
+/* 1. Index */
+
+/* 2. Portfolio */
